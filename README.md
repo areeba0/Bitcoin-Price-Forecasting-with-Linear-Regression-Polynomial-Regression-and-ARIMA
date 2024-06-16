@@ -23,7 +23,8 @@ This repository contains Python scripts demonstrating various models for forecas
 # 1. Data Loading and Initial Exploration
 - Load Bitcoin historical data from CSV file (BTC-Daily.csv).
 - Perform initial data exploration to understand the structure and summary statistics of the dataset.
-  
+  ![image](https://github.com/areeba0/Bitcoin-Price-Forecasting-with-Linear-Regression-Polynomial-Regression-and-ARIMA/assets/136759791/9b5a191e-0eca-4f52-af9b-a064b748c70d)
+
 # 2. Data Visualization
 - Visualize Bitcoin daily closing prices using Plotly for interactive line plots.
 - Plot the trend of closing prices along with the regression lines for Linear and Polynomial Regression models.
