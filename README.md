@@ -29,9 +29,7 @@ This repository contains Python scripts demonstrating various models for forecas
     ![image](https://github.com/areeba0/Bitcoin-Price-Forecasting-with-Linear-Regression-Polynomial-Regression-and-ARIMA/assets/136759791/9b5a191e-0eca-4f52-af9b-a064b748c70d)
   
 - Plot the trend of closing prices along with the regression lines for Linear and Polynomial Regression models.
-  ![image](https://github.com/areeba0/Bitcoin-Price-Forecasting-with-Linear-Regression-Polynomial-Regression-and-ARIMA/assets/136759791/428a1a19-e2e5-4202-8d6e-842c4ed9bf18)
-
-  ![image](https://github.com/areeba0/Bitcoin-Price-Forecasting-with-Linear-Regression-Polynomial-Regression-and-ARIMA/assets/136759791/7e0a7500-1e88-4b01-b76e-7c24dee2d451)
+  ![image](https://github.com/areeba0/Bitcoin-Price-Forecasting-with-Linear-Regression-Polynomial-Regression-and-ARIMA/assets/136759791/428a1a19-e2e5-4202-8d6e-842c4ed9bf18)   ![image](https://github.com/areeba0/Bitcoin-Price-Forecasting-with-Linear-Regression-Polynomial-Regression-and-ARIMA/assets/136759791/7e0a7500-1e88-4b01-b76e-7c24dee2d451)
 
   
 # 3. Linear Regression
